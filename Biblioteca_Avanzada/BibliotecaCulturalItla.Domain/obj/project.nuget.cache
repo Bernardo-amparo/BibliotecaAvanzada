@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ZE0pUdzcxA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ampar\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
+  "logs": []
+}
