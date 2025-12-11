@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cogg7CHnc88=",
+  "dgSpecHash": "oOBPZ4ev/oQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ampar\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ampar\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\ampar\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\ampar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\ampar\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\ampar\\.nuget\\packages\\microsoft.data.sqlclient\\6.1.3\\microsoft.data.sqlclient.6.1.3.nupkg.sha512",
