@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BibliotecaCulturalItla.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21c9ed194822e44d066a7f4b568fb666f91fbad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecff84c1bd08c72a1a09ab4e917f841f0138dfea")]
 [assembly: System.Reflection.AssemblyProductAttribute("BibliotecaCulturalItla.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BibliotecaCulturalItla.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

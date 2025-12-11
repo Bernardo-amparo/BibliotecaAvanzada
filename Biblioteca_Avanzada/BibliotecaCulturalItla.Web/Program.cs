@@ -1,16 +1,24 @@
 using BibliotecaCulturalItla.Data;
 using BibliotecaCulturalItla.Domain.Repositories;
 using BibliotecaCulturalItla.Services;
+using Microsoft.Extensions.Configuration; 
+using Microsoft.Extensions.DependencyInjection; 
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Connection string
-var conn = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddSingleton<DBConnection>(sp =>
+{
+    var config = sp.GetRequiredService<IConfiguration>();
 
-// Registrar DBConnection
-builder.Services.AddSingleton(new DBConnection(conn));
+    var conn = config.GetConnectionString("DefaultConnection");
 
-// Registrar repositorios y servicios
+    if (string.IsNullOrEmpty(conn))
+    {
+        throw new InvalidOperationException("La cadena de conexión 'DefaultConnection' no fue encontrada en appsettings.json.");
+    }
+
+    return new DBConnection(conn);
+});
 builder.Services.AddTransient<BookRepository>();
 builder.Services.AddTransient<BookService>();
 

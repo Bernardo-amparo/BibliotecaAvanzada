@@ -258,6 +258,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj": {
+                "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj"
+              },
               "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj": {
                 "projectPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj"
               },

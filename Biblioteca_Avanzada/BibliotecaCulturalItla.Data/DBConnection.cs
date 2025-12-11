@@ -10,8 +10,13 @@ namespace BibliotecaCulturalItla.Data
 {
     public class DBConnection
     {
-        private readonly string _connectionString =
-            "Server=LAPTOP-6TH38FO\\SQLEXPRESS;Database=BibliotecaCulturalItla;Trusted_Connection=True;";
+        private readonly string _connectionString;
+
+        // ¡Añade este constructor público!
+        public DBConnection(string connectionString)
+        {
+            _connectionString = connectionString;
+        }
 
         public IDbConnection CreateConnection()
         {

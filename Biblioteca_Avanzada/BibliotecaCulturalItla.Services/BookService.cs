@@ -1,5 +1,7 @@
-﻿using BibliotecaCulturalItla.Domain.Repositories;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using BibliotecaCulturalItla.Domain.Entities;
+using BibliotecaCulturalItla.Domain.Repositories;
 
 namespace BibliotecaCulturalItla.Services
 {
@@ -7,23 +9,40 @@ namespace BibliotecaCulturalItla.Services
     {
         private readonly BookRepository _repo;
 
-        public BookService()
+        // Constructor de Inyección de Dependencias (DI)
+        public BookService(BookRepository repo)
         {
-            _repo = new BookRepository();
+            _repo = repo;
         }
 
-        public void AddBook(Book book)
+        // Re-transmisión de la tarea asíncrona (Método más eficiente)
+        public Task<IEnumerable<Book>> GetAllAsync()
         {
-            // Validaciones de ejemplo
-            if (string.IsNullOrWhiteSpace(book.Title))
-                throw new Exception("El título es obligatorio.");
-
-            _repo.Add(book);
+            return _repo.GetAllAsync();
         }
 
-        public IEnumerable<Book> GetBooks()
+        public Task<Book?> GetByIdAsync(int id)
         {
-            return _repo.GetAll();
+            return _repo.GetByIdAsync(id);
+        }
+
+        // Asumimos que el repositorio devuelve el ID (Task<int>)
+        public Task CreateAsync(Book book)
+        {
+            // Opcional: Aquí puedes agregar validaciones de negocio o configuraciones
+            // book.Available = true; // Si decides mantener la lógica en el servicio
+
+            return _repo.CreateAsync(book);
+        }
+
+        public Task UpdateAsync(Book book)
+        {
+            return _repo.UpdateAsync(book);
+        }
+
+        public Task DeleteAsync(int id)
+        {
+            return _repo.DeleteAsync(id);
         }
     }
 }

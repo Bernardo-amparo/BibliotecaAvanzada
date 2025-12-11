@@ -1,21 +1,39 @@
 ﻿@model BibliotecaCulturalItla.Domain.Entities.Book
 
+@{
+    ViewData["Title"] = "Agregar Libro";
+}
+
 <h2>Agregar Libro</h2>
 
-<form method="post">
-    <label>Título:</label>
-    <input type="text" name="Title" class="form-control" />
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label>Título</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
 
-    <label>Autor ID:</label>
-    <input type="number" name="AuthorId" class="form-control" />
+    <div class="form-group">
+        <label>AuthorId</label>
+        <input asp-for="AuthorId" class="form-control" />
+    </div>
 
-    <label>Género:</label>
-    <input type="text" name="Genre" class="form-control" />
+    <div class="form-group">
+        <label>Género</label>
+        <input asp-for="Genre" class="form-control" />
+    </div>
 
-    <label>Año:</label>
-    <input type="number" name="YearPublished" class="form-control" />
+    <div class="form-group">
+        <label>Año</label>
+        <input asp-for="YearPublished" class="form-control" type="number" />
+    </div>
 
     <br />
-    <button class="btn btn-primary">Guardar</button>
+    <button type="submit" class="btn btn-primary">Guardar Libro</button>
+    <a asp-action="Index" class="btn btn-secondary">Volver</a>
 </form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
 
