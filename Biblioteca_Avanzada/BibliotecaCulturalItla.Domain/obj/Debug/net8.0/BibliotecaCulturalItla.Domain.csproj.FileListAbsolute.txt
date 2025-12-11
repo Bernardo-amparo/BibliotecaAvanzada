@@ -1,0 +1,16 @@
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.csproj.AssemblyReference.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.AssemblyInfoInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.AssemblyInfo.cs
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.sourcelink.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\bin\Debug\net8.0\BibliotecaCulturalItla.Domain.deps.json
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\bin\Debug\net8.0\BibliotecaCulturalItla.Domain.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\bin\Debug\net8.0\BibliotecaCulturalItla.Domain.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\bin\Debug\net8.0\BibliotecaCulturalItla.Data.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\bin\Debug\net8.0\BibliotecaCulturalItla.Data.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\Bibliote.431BA979.Up2Date
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\refint\BibliotecaCulturalItla.Domain.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\BibliotecaCulturalItla.Domain.pdb
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Domain\obj\Debug\net8.0\ref\BibliotecaCulturalItla.Domain.dll

@@ -1,4 +1,4 @@
-﻿using BibliotecaCulturalItla.Data.Repositories;
+﻿using BibliotecaCulturalItla.Domain.Repositories;
 using BibliotecaCulturalItla.Domain.Entities;
 
 namespace BibliotecaCulturalItla.Services

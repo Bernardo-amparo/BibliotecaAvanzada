@@ -3,16 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Dapper;
+using Microsoft.Data.SqlClient;
+using System.Data;
+using BibliotecaCulturalItla.Domain.Entities;
+using BibliotecaCulturalItla.Data;
 
 namespace BibliotecaCulturalItla.Domain.Repositories
 {
     public class BookRepository
     {
-        private readonly DbConnection _db;
+        private readonly DBConnection _db;
 
         public BookRepository()
         {
-            _db = new DbConnection();
+            _db = new DBConnection();
         }
 
         public IEnumerable<Book> GetAll()
