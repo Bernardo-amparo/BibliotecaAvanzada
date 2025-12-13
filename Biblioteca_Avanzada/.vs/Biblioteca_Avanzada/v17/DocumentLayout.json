@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,18 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B98F70E-656A-4402-BC7D-2ED4CDCAC7C6}|BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A07E41F-18A1-4E75-A194-E91B0E726E57}|BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.data\\bibliotecaculturalitla.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4A07E41F-18A1-4E75-A194-E91B0E726E57}|BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj|solutionrelative:bibliotecaculturalitla.data\\bibliotecaculturalitla.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|c:\\users\\ampar\\onedrive\\pictures\\desktop\\itla_general\\programacion 2\\bibliotecaavanzada\\biblioteca_avanzada\\bibliotecaculturalitla.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DC221A45-8126-4D77-9C5F-65C4A6A15114}|BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj|solutionrelative:bibliotecaculturalitla.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,11 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Program.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Program.cs",
@@ -95,12 +115,89 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T11:27:27.53Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T17:34:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T17:30:46.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T17:22:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T17:00:57.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Shared\\Layout.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Shared\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Shared\\Layout.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Shared\\Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T16:54:50.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\appsettings.json",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T11:24:11.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -108,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Controllers\\HomeController.cs",
@@ -121,20 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\appsettings.json",
-              "RelativeToolTip": "BibliotecaCulturalItla.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-11T11:24:11.872Z",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T16:29:34.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "DBConnection.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Data\\DBConnection.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Data\\DBConnection.cs",
@@ -142,12 +239,24 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Data\\DBConnection.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:16:54.854Z",
+              "WhenOpened": "2025-12-10T22:16:54.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T01:16:45.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\Repositories\\BookRepository.cs",
@@ -155,12 +264,24 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Domain\\Repositories\\BookRepository.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:28:42.334Z",
+              "WhenOpened": "2025-12-10T22:28:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T16:36:29.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Services\\BookService.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Services\\BookService.cs",
@@ -168,12 +289,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Services\\BookService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:32:17.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:32:17.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Controllers\\BookController.cs",
@@ -181,38 +301,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Web\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:35:58.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:35:58.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T16:29:34.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
-              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
-              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T01:16:45.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Loan.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\Entities\\Loan.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\Entities\\Loan.cs",
@@ -220,12 +313,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Domain\\Entities\\Loan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:13:31.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:13:31.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Friend.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\Entities\\Friend.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\Entities\\Friend.cs",
@@ -233,12 +325,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Domain\\Entities\\Friend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:12:02.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:12:02.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\Entities\\Book.cs",
@@ -246,12 +337,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Domain\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:07:39.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:07:39.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\Entities\\Author.cs",
@@ -259,12 +349,11 @@
               "RelativeToolTip": "BibliotecaCulturalItla.Domain\\Entities\\Author.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T22:09:50.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T22:09:50.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "BibliotecaCulturalItla.Services.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Services\\BibliotecaCulturalItla.Services.csproj",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Services\\BibliotecaCulturalItla.Services.csproj",
@@ -276,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "BibliotecaCulturalItla.Web.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\BibliotecaCulturalItla.Web.csproj",
@@ -288,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "BibliotecaCulturalItla.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Domain\\BibliotecaCulturalItla.Domain.csproj",
@@ -300,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "BibliotecaCulturalItla.Data.csproj",
               "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj",
               "RelativeDocumentMoniker": "BibliotecaCulturalItla.Data\\BibliotecaCulturalItla.Data.csproj",
@@ -309,18 +398,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-11T11:14:26.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ampar\\OneDrive\\Pictures\\Desktop\\Itla_General\\Programacion 2\\BibliotecaAvanzada\\Biblioteca_Avanzada\\BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BibliotecaCulturalItla.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-11T16:36:29.878Z"
             }
           ]
         }

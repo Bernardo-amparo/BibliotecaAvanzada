@@ -1,14 +1,14 @@
 ﻿@model BibliotecaCulturalItla.Domain.Entities.Book
 @{
-    ViewData["Title"] = "Agregar Libro";
+    ViewData["Title"] = "Editar Libro";
 }
-<h2>Agregar Libro</h2>
+<h2>Editar Libro</h2>
 
-<form asp-action="Create" method="post">
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="BookId" />
     <div class="mb-3">
         <label class="form-label">Título</label>
         <input asp-for="Title" class="form-control" />
-        <span asp-validation-for="Title" class="text-danger"></span>
     </div>
     <div class="mb-3">
         <label class="form-label">AuthorId</label>
@@ -27,11 +27,7 @@
         <label class="form-check-label">Disponible</label>
     </div>
 
-    <button type="submit" class="btn btn-primary">Guardar Libro</button>
-    <a asp-action="Index" class="btn btn-secondary">Volver</a>
+    <button type="submit" class="btn btn-primary">Guardar cambios</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
 </form>
-
-@section Scripts {
-    <partial name="_ValidationScriptsPartial" />
-}
 

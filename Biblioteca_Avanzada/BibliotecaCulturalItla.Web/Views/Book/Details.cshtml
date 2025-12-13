@@ -1,0 +1,17 @@
+﻿@model BibliotecaCulturalItla.Domain.Entities.Book
+@{
+    ViewData["Title"] = "Detalles del Libro";
+}
+<h2>Detalles</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
+        <p class="card-text"><strong>Género:</strong> @Model.Genre</p>
+        <p class="card-text"><strong>Año:</strong> @Model.YearPublished</p>
+        <p class="card-text"><strong>Disponible:</strong> @(Model.Available ? "Sí" : "No")</p>
+        <a class="btn btn-secondary" asp-action="Index">Volver</a>
+        <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.BookId">Editar</a>
+    </div>
+</div>
+
