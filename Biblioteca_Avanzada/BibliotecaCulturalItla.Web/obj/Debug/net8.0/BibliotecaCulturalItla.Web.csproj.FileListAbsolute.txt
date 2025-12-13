@@ -255,9 +255,9 @@ C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaA
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Data.dll
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Domain.dll
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Services.dll
+C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Data.pdb
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Domain.pdb
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Services.pdb
-C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\bin\Debug\net8.0\BibliotecaCulturalItla.Data.pdb
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\obj\Debug\net8.0\BibliotecaCulturalItla.Web.csproj.AssemblyReference.cache
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\ampar\OneDrive\Pictures\Desktop\Itla_General\Programacion 2\BibliotecaAvanzada\Biblioteca_Avanzada\BibliotecaCulturalItla.Web\obj\Debug\net8.0\BibliotecaCulturalItla.Web.GeneratedMSBuildEditorConfig.editorconfig

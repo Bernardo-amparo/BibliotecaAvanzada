@@ -12,10 +12,10 @@ namespace BibliotecaCulturalItla.Data
     {
         private readonly string _connectionString;
 
-        // ¡Añade este constructor público!
+
         public DBConnection(string connectionString)
         {
-            _connectionString = connectionString;
+            _connectionString = connectionString; 
         }
 
         public IDbConnection CreateConnection()

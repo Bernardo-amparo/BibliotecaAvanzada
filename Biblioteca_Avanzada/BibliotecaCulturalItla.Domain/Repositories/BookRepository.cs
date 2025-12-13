@@ -1,12 +1,12 @@
 ﻿using System.Data;
-using System.Threading.Tasks; // ¡Necesario para Task!
+using System.Threading.Tasks; 
 using Dapper;
 using Microsoft.Data.SqlClient;
 using BibliotecaCulturalItla.Domain.Entities;
 using BibliotecaCulturalItla.Data;
 using System.Collections.Generic;
 using System.Linq;
-using System; // Solo si se usa
+using System;
 
 namespace BibliotecaCulturalItla.Domain.Repositories
 {
@@ -19,54 +19,51 @@ namespace BibliotecaCulturalItla.Domain.Repositories
             _dbConnection = dbConnection;
         }
 
-        // 1. GET ALL ASÍNCRONO
+
         public async Task<IEnumerable<Book>> GetAllAsync()
         {
             using var conn = _dbConnection.CreateConnection();
-            string sql = "SELECT * FROM Book";
-            // Usar QueryAsync
+            string sql = "SELECT BookId, Title, AuthorId, Genre, YearPublished, Available FROM Books";
             return await conn.QueryAsync<Book>(sql);
         }
 
-        // 2. GET BY ID ASÍNCRONO
+
         public async Task<Book?> GetByIdAsync(int id)
         {
             using var conn = _dbConnection.CreateConnection();
-            string sql = "SELECT * FROM Book WHERE Id = @Id";
-            // Usar QueryFirstOrDefaultAsync
+            string sql = @"SELECT BookId, Title, AuthorId, Genre, YearPublished, Available
+                           FROM Books WHERE BookId = @Id";
             return await conn.QueryFirstOrDefaultAsync<Book>(sql, new { Id = id });
         }
 
-        // 3. INSERT ASÍNCRONO (Renombrado a CreateAsync para consistencia con el servicio)
-        public async Task CreateAsync(Book book)
+        public async Task<int> CreateAsync(Book book)
         {
             using var conn = _dbConnection.CreateConnection();
-            string sql = @"INSERT INTO Book (Title, AuthorId, Genre, YearPublished)
-                             VALUES (@Title, @AuthorId, @Genre, @YearPublished)";
-            // Usar ExecuteAsync
-            await conn.ExecuteAsync(sql, book);
+           
+            string sql = @"INSERT INTO Books (Title, AuthorId, Genre, YearPublished, Available)
+                           OUTPUT INSERTED.BookId
+                           VALUES (@Title, @AuthorId, @Genre, @YearPublished, @Available)";
+            var newId = await conn.ExecuteScalarAsync<int>(sql, book);
+            return newId;
         }
 
-        // 4. UPDATE ASÍNCRONO
         public async Task UpdateAsync(Book book)
         {
             using var conn = _dbConnection.CreateConnection();
-            string sql = @"UPDATE Book 
-                             SET Title = @Title,
-                                 AuthorId = @AuthorId,
-                                 Genre = @Genre,
-                                 YearPublished = @YearPublished
-                             WHERE Id = @Id";
-            // Usar ExecuteAsync
+            string sql = @"UPDATE Books
+                           SET Title = @Title,
+                               AuthorId = @AuthorId,
+                               Genre = @Genre,
+                               YearPublished = @YearPublished,
+                               Available = @Available
+                           WHERE BookId = @BookId";
             await conn.ExecuteAsync(sql, book);
         }
 
-        // 5. DELETE ASÍNCRONO
         public async Task DeleteAsync(int id)
         {
             using var conn = _dbConnection.CreateConnection();
-            string sql = "DELETE FROM Book WHERE Id = @Id";
-            // Usar ExecuteAsync
+            string sql = "DELETE FROM Books WHERE BookId = @Id";
             await conn.ExecuteAsync(sql, new { Id = id });
         }
     }
